@@ -1,4 +1,4 @@
-# Autor:David Ferney Cruz Cruz
+# Autor:David Ferney Cruz Cruz FECHA: 19/FEBRERO/2021
 @stories
 Feature: Academy Choucair
   As a user, II want to learn how to automate in screamplay at the Choucair Academy with the automation course
